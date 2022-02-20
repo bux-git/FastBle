@@ -1,0 +1,14 @@
+ext {
+    versionControl = [
+            versionCode: 240,
+            versonName : "2.4.0"
+    ]
+
+    android = [
+            minSdkVersion    : 21,
+            targetSdkVersion : 30,
+            compileSdkVersion: 30
+    ]
+
+}
+
